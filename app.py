@@ -9,7 +9,6 @@ app = Flask(__name__)
 FOLDERS = {
     "Downloads": r"C:\Users\yourpcname\Downloads",
     "Desktop": r"C:\Users\yourpcname\Desktop",
-    "Documents": r"C:\Users\yourpcname\Documents",
     "Screenshots": r"C:\Users\yourpcname\Pictures\Screenshots",
     "Projects": r"D:\Projects"
 }
