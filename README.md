@@ -69,7 +69,7 @@ Instead of navigating through deep directories every time, this Script gives you
 
 ## 📸 Screenshot
 
-![screenshot](screenshots/folder-launcher-ui.png)
+![screenshot](screenshots/folder-launcher-python.png)
 
 ---
 
