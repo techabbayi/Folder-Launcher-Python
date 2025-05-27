@@ -37,7 +37,7 @@ Instead of navigating through deep directories every time, this Script gives you
 ## 📦 Installation & Setup
 
 1. **Clone the repo**:
-   git clone https://github.com/yourusername/Folder-Launcher-Python.git
+   git clone https://github.com/techabbayi/Folder-Launcher-Python.git
    cd Folder-Launcher-Python
 
 2. **Install dependencies**:
